@@ -8,7 +8,6 @@ echo 'hello xiaobai'
 echo 'hello xiaobai'
 echo 'hello xiaobai'
 echo 'hello xiaobai'
-echo 'hello xiaobai'
 
 print("hello")
 print("hello")
