@@ -11,6 +11,3 @@ echo 'hello xiaobai'
 
 print("hello")
 print("hello")
-print("hello")
-print("hello")
-print("hello")
