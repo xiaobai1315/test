@@ -5,7 +5,7 @@ echo n
 
 if [ $n -gt 5 ]
 then
-    echo 'biger than five'
+    echo 'bigger than five'
 else
     echo 'false'
 fi
