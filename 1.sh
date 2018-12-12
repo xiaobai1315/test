@@ -1,7 +1,4 @@
 #!/bin/bash
 
-echo 'hello world'
-echo 'hello world'
-echo 'hello world'
-echo 'hello world'
-echo 'hello world'
+read -p 'please input a nunmber' n
+echo n
